@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "アブノーマリティー。（feat. yama）",
+  "base_artist": "泣き虫",
+  "createdAt": "2026-02-06T15:21:30.821767Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "アブノーマリティー。(feat. yama)",
+      "artist": "泣き虫",
+      "has_synced": false,
+      "path": "select/pl_01_アブノーマリティー。(feat._yama)_泣き虫.txt"
+    }
+  ]
+}
